@@ -35,7 +35,7 @@ Your watch history, progress, and library should now appear on the new account.
 
 ## What doesn't get transferred
 
-- Addon configurations (use Stremio's addon sharing for this)
+- Addon configurations (use Stremio's addon sharing for this or you can use https://stremio-account-addon-cloner.vercel.app ⚠️ I just found this online, this site is completely use at your own risk ⚠️)
 - Account settings
 - Stremio server settings
 
